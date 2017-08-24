@@ -1,0 +1,36 @@
+label,button {
+    display: block;
+    margin-bottom: 15px;
+}
+
+.left {
+    width: 330px;
+    display: inline-block;
+}
+
+.right {
+    display: inline-block;
+    vertical-align: top;
+}
+
+textarea {
+    width: 200px;
+    height: 100px;
+}
+
+.card {
+	text-align: center;
+	height: 130px;
+	width: 200px;
+	background-color: aqua;
+	border: 2px solid black;
+	overflow: scroll;
+	display: inline-block;
+	vertical-align: top;
+	margin: 5px;
+	padding: 5px;
+}
+
+.back {
+    display: none;
+}
